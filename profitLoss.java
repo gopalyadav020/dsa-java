@@ -10,7 +10,7 @@ public class profitLoss {
         if (sp > cp) {
             System.out.println("you gained a profit");
         } else {
-            System.out.println("you incurred a loss");
+            System.out.println("you incurred a loss.....");
         }
     }
 
