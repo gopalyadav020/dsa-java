@@ -2,7 +2,7 @@
 
 This repository contains Data Structures and Algorithms (DSA) programs written in Java.
 
-## Topics Covered
+## Topics Cover
 
 * Arrays
 * Strings
