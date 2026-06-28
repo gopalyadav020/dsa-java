@@ -6,7 +6,7 @@ public class poinRadius {
         System.out.println("enter center of (x,y)");
         int x = sc.nextInt();
         int y = sc.nextInt();
-        System.out.println("enter center of (x1,y1)");
+        System.out.println("enter center of (X,y1)");
         int X = sc.nextInt();
         int y1 = sc.nextInt();
         System.out.println("enter radius");
